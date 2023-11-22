@@ -1,4 +1,4 @@
-package mainclass.exercises;
+package mainclass.exercises.arrays;
 
 public class CheckIdenticalElement {
     public static void main(String[] args) {
