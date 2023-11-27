@@ -4,7 +4,6 @@ public class VariableTypes {
     public static void main(String[] args) {
         Circle circle1 = new Circle(15);
         Circle circle2 = new Circle(25);
-
         System.out.println(circle1.radius);
         System.out.println(circle2.radius);
         System.out.println(Circle.Pi);
