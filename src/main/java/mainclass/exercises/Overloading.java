@@ -27,10 +27,3 @@ class MathOperations {
         return sumOperation(a, b) + c;
     }
 }
-//Exercise1: Overloading in Java
-//Create a Java class named MathOperations that demonstrates the concept of method overloading.
-// Implement the following methods with different parameter lists in the class:
-//1.Method add that takes two integers and returns their sum.
-//2.Method add that takes three integers and returns their sum.
-//3.Method add that takes two double values and returns their sum.
-//4.Method add that takes three double values and returns their sum.
