@@ -1,4 +1,4 @@
-package mainclass.vehicle;
+package mainclass.exercises.vehicle;
 
 public class Car implements Vehicle {
     @Override

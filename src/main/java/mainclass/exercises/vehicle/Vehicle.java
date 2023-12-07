@@ -1,4 +1,4 @@
-package mainclass.vehicle;
+package mainclass.exercises.vehicle;
 
 public interface Vehicle {
     void start();
