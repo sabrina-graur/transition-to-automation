@@ -1,4 +1,4 @@
-package mainclass.vehicle;
+package mainclass.exercises.vehicle;
 
 public class ToTestVehicle {
     public static void main(String[] args) {
