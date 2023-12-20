@@ -1,4 +1,4 @@
-package mainclass.exercises;
+package mainclass.exercises.overloading;
 
 public class OverloadingShapeCalculator {
     public static void main(String[] args) {

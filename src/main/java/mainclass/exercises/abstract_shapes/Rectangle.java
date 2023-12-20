@@ -1,4 +1,4 @@
-package mainclass.exercises.shapes;
+package mainclass.exercises.abstract_shapes;
 
 public class Rectangle extends Shape {
     private double length;

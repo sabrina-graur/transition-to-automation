@@ -1,4 +1,4 @@
-package mainclass.exercises;
+package mainclass.exercises.enums;
 
 public class DayOfWeeks {
     public static void main(String[] args) {

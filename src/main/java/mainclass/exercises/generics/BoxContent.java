@@ -1,4 +1,4 @@
-package mainclass.generics;
+package mainclass.exercises.generics;
 
 public class BoxContent {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package mainclass.exercises;
+package mainclass.exercises.casting_consersion;
 
 import java.util.Scanner;
 

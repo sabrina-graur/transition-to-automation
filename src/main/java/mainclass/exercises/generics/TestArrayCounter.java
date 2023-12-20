@@ -1,4 +1,4 @@
-package mainclass.generics;
+package mainclass.exercises.generics;
 
 public class TestArrayCounter {
     public static void main(String[] args) {
