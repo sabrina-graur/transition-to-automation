@@ -1,4 +1,4 @@
-package mainclass.exercises;
+package mainclass.exercises.enums;
 
 public class Planets {
     public static void main(String[] args) {

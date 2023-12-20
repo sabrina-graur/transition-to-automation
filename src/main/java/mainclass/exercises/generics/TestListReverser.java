@@ -1,4 +1,4 @@
-package mainclass.generics;
+package mainclass.exercises.generics;
 
 import java.util.Arrays;
 

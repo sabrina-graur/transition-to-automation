@@ -1,4 +1,4 @@
-package mainclass.exercises;
+package mainclass.exercises.casting_consersion;
 
 public class WrapperClassCasting {
     public static void main(String[] args) {

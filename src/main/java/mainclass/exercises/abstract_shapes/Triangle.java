@@ -1,4 +1,4 @@
-package mainclass.exercises.shapes;
+package mainclass.exercises.abstract_shapes;
 
 public class Triangle extends Shape {
     private double sideA;

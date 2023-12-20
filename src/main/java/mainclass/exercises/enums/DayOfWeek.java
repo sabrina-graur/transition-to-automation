@@ -1,4 +1,4 @@
-package mainclass.exercises;
+package mainclass.exercises.enums;
 
 public enum DayOfWeek {
     MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY, SUNDAY;
